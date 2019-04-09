@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RodrigoLima98/video-mk/issues"
   },
-  "homepage": "https://github.com/RodrigoLima98/video-mk#readme"
+  "homepage": "https://github.com/RodrigoLima98/video-mk#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
