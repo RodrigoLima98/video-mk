@@ -1,0 +1,19 @@
+{
+  "name": "video-mk",
+  "version": "1.0.0",
+  "description": "Projeto open source para criar vídeos autorizados / Open source project for make authorized videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoLima98/video-mk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoLima98/video-mk/issues"
+  },
+  "homepage": "https://github.com/RodrigoLima98/video-mk#readme"
+}
